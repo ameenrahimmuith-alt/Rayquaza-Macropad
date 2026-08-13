@@ -2,3 +2,4 @@
 3x3 rayquaza maropad
 Esssentialy, this is scottokeebs 3x3 macro pad, follow the exact same steps as him, just use the custom case i desined instead when 3d printing:
 https://www.youtube.com/watch?v=DfDlfpNA9DU
+https://www.printables.com/model/1809668-3x3-rayquaza-keyboard-case
